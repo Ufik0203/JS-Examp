@@ -19,6 +19,7 @@
   "dependencies": {
     "js-blockchain": "^1.0.0",
     "js-database-connection": "^1.0.5",
+    "js-web-scraping-imdb": "^1.0.0",
     "mysql2": "^3.9.2",
     "sequelize": "^6.37.1"
   }
